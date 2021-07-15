@@ -7,4 +7,4 @@
 
 We've try to create a simple request in ajax.
 
-You can check it out here 
+You can check it out here https://evelynecg.github.io/ajax-simple-web-service-request/quote
