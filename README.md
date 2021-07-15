@@ -8,3 +8,10 @@
 We've try to create a simple request in ajax.
 
 You can check it out here https://evelynecg.github.io/ajax-simple-web-service-request/quote
+
+Created by me, myself and I...
+Evelyne Colaço Garcia
+
+<hr>
+
+![OMG](https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif)
